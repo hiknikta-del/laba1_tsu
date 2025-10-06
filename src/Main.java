@@ -1,23 +1,31 @@
 /**
  * @author Kolya
  * @version 0.3
+ *
+ * головний клас
  */
 
 import java.util.Scanner;
 
-/**Головний клас
- *
- *
- * @param stop буліан зупиняє програму якщо фолс
- * @param lucasN інт номер числа лукаса вводить користувач
- * @param lucasProcess[] objects статичний масив об'єктів лукасчисло всього 10
- * @param counter int лічильник що переключай на новий об'єкт з масиву об'єктів на новому циклі
- *
- */
+
 
 public class Main {
 
+
+
     static public void main(String[] args) {
+
+        /**
+         *
+         *
+         * @param stop буліан зупиняє програму якщо фолс
+         * @param lucasN інт номер числа лукаса вводить користувач
+         * @param lucasProcess[] objects статичний масив об'єктів лукасчисло всього 10
+         * @param counter int лічильник що переключай на новий об'єкт з масиву об'єктів на новому циклі
+         *
+         */
+
+
         Scanner scanner = new Scanner(System.in);
         boolean stop = true;
         int lucasN = 0;

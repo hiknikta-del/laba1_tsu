@@ -1,15 +1,15 @@
-/**
- * @author Kolya
- * клас для обробки лукас чисел
- * @param lucasFirst перше число лукаса індекс 0
- * @param lucasNext lheut число лукаса індекс 1
- * @param lucasFin lucas number of the indx provided
- * @param lucasPlusone lucas number of indx +1 from the indx user provided
- * @param NofLucas indx of lucas provided by user
- */
 
 
 public class lucasProcess {
+    /**
+     * @author Kolya
+     * клас для обробки лукас чисел
+     * @param lucasFirst перше число лукаса індекс 0
+     * @param lucasNext lheut число лукаса індекс 1
+     * @param lucasFin lucas number of the indx provided
+     * @param lucasPlusone lucas number of indx +1 from the indx user provided
+     * @param NofLucas indx of lucas provided by user
+     */
 
    private int lucasFirst = 2;
     private int lucasNext = 1;
