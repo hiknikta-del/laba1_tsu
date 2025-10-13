@@ -1,5 +1,6 @@
-
-
+/**
+ * class calculating lucas numbers and containing the objects
+ */
 public class lucasProcess {
     /**
      * @author Kolya
